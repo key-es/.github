@@ -121,15 +121,19 @@ The output filename will contain the version number by default (if it does not a
 
 # 🔗 Useful Resources
 
-https://semver.org/
+- https://semver.org/
 
-https://learn.ni.com/pages/seta
-https://learn.ni.com/learn/learning-path/implementing-reuse-strategies
-https://learn.ni.com/learn/learning-path/implementing-a-test-strategy-in-labview
-https://learn.ni.com/learn/learning-path/source-code-control
-https://learn.ni.com/learn/learning-path/continuous-integration
-https://learn.ni.com/learn/learning-path/requirements
-https://learn.ni.com/learn/learning-path/project-management
+- https://www.conventionalcommits.org/en/v1.0.0
+- https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
+- https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
+
+- https://learn.ni.com/pages/seta
+- https://learn.ni.com/learn/learning-path/implementing-reuse-strategies
+- https://learn.ni.com/learn/learning-path/implementing-a-test-strategy-in-labview
+- https://learn.ni.com/learn/learning-path/source-code-control
+- https://learn.ni.com/learn/learning-path/continuous-integration
+- https://learn.ni.com/learn/learning-path/requirements
+- https://learn.ni.com/learn/learning-path/project-management
 
 https://www.youtube.com/@TomsLabVIEWAdventure
 OOP
