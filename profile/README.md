@@ -7,9 +7,9 @@ Comments
 
 The key-es GitHub organisation is for internal sharing of reuse code.
 
-# Source Control
+# ☁️ Source Control
 
-## Setup
+## 🛠️ Setup
 
 Create a new repository on GitHub
 
@@ -21,7 +21,7 @@ Create `dev` branch in GitHub
 
 `git switch dev`
 
-## Branches
+## 🌳 Branches
 
 |Branch Name|Description|
 |-----------|-----------|
@@ -35,9 +35,6 @@ https://www.conventionalcommits.org/en/v1.0.0
 https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
 
-## Issues
-
-
 ## Releases
 
 `git add .`
@@ -48,8 +45,9 @@ https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
 
 `git push origin main --tags`
 
+## ⁉️ Issues
 
-# Versioning
+# 📑 Versioning
 
 When creating new packages/modules it is inevitable that changes and updates will be made. 
 
@@ -77,7 +75,7 @@ The output filename will contain the version number by default (if it does not a
 
 
 
-# Useful Resources
+# 🔗 Useful Resources
 
 https://semver.org/
 
