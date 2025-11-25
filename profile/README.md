@@ -7,6 +7,8 @@ Comments
 
 The key-es GitHub organisation is for internal sharing of reuse code.
 
+The minimum requirement is that packages are supported for LabVIEW 2020 and higher.
+
 # ☁️ Source Control
 
 ## 🛠️ Setup
@@ -121,12 +123,15 @@ The output filename will contain the version number by default (if it does not a
 
 # 🔗 Useful Resources
 
+## Semantic Versioning
 - https://semver.org/
 
+## Conventional Commits
 - https://www.conventionalcommits.org/en/v1.0.0
 - https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 - https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
 
+## Reuse Code in LabVIEW
 - https://learn.ni.com/pages/seta
 - https://learn.ni.com/learn/learning-path/implementing-reuse-strategies
 - https://learn.ni.com/learn/learning-path/implementing-a-test-strategy-in-labview
@@ -135,11 +140,14 @@ The output filename will contain the version number by default (if it does not a
 - https://learn.ni.com/learn/learning-path/requirements
 - https://learn.ni.com/learn/learning-path/project-management
 
-https://www.youtube.com/@TomsLabVIEWAdventure
-OOP
-https://youtube.com/playlist?list=PLmF-6jvwRvVNVPfGxGPMsf3cZafT83oH8&si=R42QMkmSuOCQfr5-
-Actor Framework
-https://youtube.com/playlist?list=PLmF-6jvwRvVNFzBjzh4bQDjFbv6lShcth&si=-p_imQLMUj1k1E8p
+## LabVIEW
+- https://www.youtube.com/@TomsLabVIEWAdventure
+
+## Object Oriented Programming in LabVIEW
+- https://youtube.com/playlist?list=PLmF-6jvwRvVNVPfGxGPMsf3cZafT83oH8&si=R42QMkmSuOCQfr5-
+
+## The Actor Framework in LabVIEW
+- https://youtube.com/playlist?list=PLmF-6jvwRvVNFzBjzh4bQDjFbv6lShcth&si=-p_imQLMUj1k1E8p
 
 
-This README.md document can be found at the following location: `key-es/.github/profile/README.md`
+This README.md document can be found and edited at the following location: `key-es/.github/profile/README.md`
