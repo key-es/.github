@@ -9,9 +9,9 @@ The key-es GitHub organisation is for internal sharing of reuse code.
 
 The minimum requirement is that packages are supported for LabVIEW 2020 and higher.
 
-# ☁️ Source Control
 
-## 🛠️ Setup Source Control
+
+# 🛠️ Setup Source Control
 
 Create a new repository on GitHub:
 <img width="889" height="864" alt="image" src="https://github.com/user-attachments/assets/31513ce8-3e8a-43f7-99a3-2c4762c9352e" />
@@ -22,7 +22,9 @@ Using the command line, clone the repository:
 
 Create a new LabVIEW project in this directory - this is where you will develop your package.
 
-## 🌳 Branches
+
+
+# 🌳 Branch Conventions
 
 |Branch Name|Description|
 |-----------|-----------|
@@ -45,10 +47,13 @@ Switch to the new `dev` branch:
 
 Work on the `dev` or a specific `[issue-id]` branch. Once development is complete and unit tests have been passed, merge into `main`.
 
-## ⁉️ Issues
 
-## 💬 Conventional Commits
 
+# ⁉️ Issues
+
+
+
+# 💬 Conventional Commits
 
 Conventional commits provide an easy set of rules to write an explicit commit history.
 
@@ -81,7 +86,9 @@ Resources:
 - https://github.com/angular/angular/blob/22b96b9/CONTRIBUTING.md#-commit-message-guidelines
 - https://gist.github.com/qoomon/5dfcdf8eec66a051ecd85625518cfd13
 
-## ⭐ Releases
+
+
+# ⭐ Releases
 
 When the changes have been made and the package/module has been built and is ready for release, commit the project using the command line, referencing the release version number:
 
