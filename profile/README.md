@@ -91,6 +91,7 @@ Tag the commit. This tag marks the *exact* commit the package/module was built f
 
 `git push origin main --tags`
 
+From GitHub, create a new release referencing this tag, update the release notes, and attach the `.vip` file.
 
 
 # 🔢 Versioning
