@@ -72,6 +72,8 @@ A pull request can be linked in a similar way - the issue id (`#1`) should be in
 
 Finally, a branch can be linked to a specific issue by naming the branch using the issue id e.g. `issue-1` or `feature/1-login`
 
+
+
 # 💬 Conventional Commits
 
 Conventional commits provide an easy set of rules to write an explicit commit history.
@@ -119,9 +121,11 @@ Tag the commit. This tag marks the *exact* commit the package/module was built f
 
 `git tag -a 1.0.0 -m 'Release 1.0.0 - first release'`
 
-`git push origin main --tags`
+`git push origin dev --tags`
 
 From GitHub, create a new release referencing this tag, update the release notes, and attach the `.vip` file.
+
+Finally, create a pull request and merge `dev` into `main`. Do NOT delete the `dev` branch on completion.
 
 <img width="1038" height="867" alt="image" src="https://github.com/user-attachments/assets/db0c7112-faaa-416e-be74-4e02205e0b4f" />
 
