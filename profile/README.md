@@ -93,6 +93,9 @@ Tag the commit. This tag marks the *exact* commit the package/module was built f
 
 From GitHub, create a new release referencing this tag, update the release notes, and attach the `.vip` file.
 
+<img width="1038" height="867" alt="image" src="https://github.com/user-attachments/assets/db0c7112-faaa-416e-be74-4e02205e0b4f" />
+
+
 
 # 🔢 Versioning
 
