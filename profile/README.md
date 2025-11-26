@@ -11,7 +11,7 @@ The minimum requirement is that packages are supported for LabVIEW 2020 and high
 
 # ☁️ Source Control
 
-## 🛠️ Setup
+## 🛠️ Setup Source Control
 
 Create a new repository on GitHub:
 <img width="889" height="864" alt="image" src="https://github.com/user-attachments/assets/31513ce8-3e8a-43f7-99a3-2c4762c9352e" />
@@ -19,6 +19,8 @@ Create a new repository on GitHub:
 Using the command line, clone the repository:
 
 `git clone git@github.com:user-name/repo-name.git`
+
+Create a new LabVIEW project in this directory - this is where you will develop your package.
 
 ## 🌳 Branches
 
@@ -40,6 +42,8 @@ Pull down the new branch to your local copy from the command line:
 Switch to the new `dev` branch:
 
 `git switch dev`
+
+Work on the `dev` or a specific `[issue-id]` branch. Once development is complete and unit tests have been passed, merge into `main`.
 
 ## ⁉️ Issues
 
