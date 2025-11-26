@@ -51,7 +51,26 @@ Work on the `dev` or a specific `[issue-id]` branch. Once development is complet
 
 # ⁉️ Issues
 
+Once a new issue has been created in a GitHub repository, it can be referenced in commit messages using the id e.g. 
 
+`git commit -m 'fix: login error, closes #1'`. 
+
+An issue can automatically be closed using a closing keyword. 
+
+Closing keywords:
+- close
+- closes
+- closed
+- fix
+- fixes
+- fixed
+- resolve
+- resolves
+- resolved
+
+A pull request can be linked in a similar way - the issue id (`#1`) should be included in the title or description of the pull request
+
+Finally, a branch can be linked to a specific issue by naming the branch using the issue id e.g. `issue-1` or `feature/1-login`
 
 # 💬 Conventional Commits
 
