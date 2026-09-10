@@ -7,7 +7,7 @@ Comments
 
 ❗ **The key-es GitHub organisation is for internal sharing of reuse code.** ❗
 
-The minimum requirement is that packages are supported for LabVIEW 2020 and higher.
+The minimum requirement is that packages are supported for LabVIEW 2024 and higher.
 
 
 
